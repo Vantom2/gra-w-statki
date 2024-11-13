@@ -1,7 +1,7 @@
-#include "Plansza.h"
 #include <iostream>
-#include <cstdlib>
 #include <ctime>
+#include <cstdlib>
+#include "Plansza.h"
 using namespace std;
 Board::Board() {
     for (int i = 0; i < 10; i++) {
