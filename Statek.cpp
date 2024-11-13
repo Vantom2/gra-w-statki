@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Statek.h"
 using namespace std;
 Ship::Ship(int LENGHT) : LENGHT(LENGHT) {}
