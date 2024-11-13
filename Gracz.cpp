@@ -1,5 +1,5 @@
-#include "Gracz.h"
 #include <iostream>
+#include "Gracz.h"
 #include <vector>
 using namespace std;
 
